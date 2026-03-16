@@ -1,3 +1,4 @@
+#Solve Move Zeroes using two-pointer approach swapping method
 nums = [0,1,0,3,12,0,0,11,0,9]
 # nums = [1,2,3]
 def moves_zero(nums):
